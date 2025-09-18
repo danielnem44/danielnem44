@@ -2,12 +2,13 @@
 ---
 Jeg studerer **IT og Informasjonssystemer** ved Universitetet i Agder. Kristiansand Campus.
 
+> ✝️Philippians 4:13
+
 * Jeg er interssert i;
     * Nettverk
     * App-design
     * Cybersikkerhet.
 
-Jeg vil lær mer om programmering, og praktisk bruk av teknologi
 
 --- 
 ### Hobby 

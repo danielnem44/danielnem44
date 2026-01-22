@@ -3,6 +3,7 @@
 Jeg studerer **IT og Informasjonssystemer** ved Universitetet i Agder. Kristiansand Campus.
 
 > ✝️Philippians 4:13
+> Psalms 91
 
 * Jeg er interssert i;
     * Nettverk
@@ -33,6 +34,7 @@ Jeg studerer **IT og Informasjonssystemer** ved Universitetet i Agder. Kristians
 - [Blogg - Daniel Nemeye](https://open.substack.com/pub/danielnemeye, "Substack Daniel Nemeye")
 - [Figma - ImmigrAid](https://www.figma.com/design/mhhUW8wzVzXGA9hVeTHY9f/ImmigrAid--Copy-?node-id=0-1&p=f&t=fLJDys9rK5cyXG5C-0, "Prototype ImmigraAid")
 - [GitHub](https://github.com/danielnem44/Silent-Solve, "GitHub")
+- [Rootsapp](https://www.rootsapp.no, "Rootsapp")
 
 
 
